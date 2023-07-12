@@ -1,0 +1,11 @@
+(librepcb_library 6ab7d2d9-be35-4ee3-9fc8-cd7ec638ecc4
+ (name "Tag-Connect")
+ (description "In-circuit programming connectors (unofficial).")
+ (keywords "")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2023-07-12T15:27:04Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/Tag_Connect.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)
