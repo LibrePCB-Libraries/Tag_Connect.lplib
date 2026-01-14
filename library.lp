@@ -3,7 +3,7 @@
  (description "In-circuit programming connectors (unofficial).")
  (keywords "")
  (author "LibrePCB")
- (version "0.1")
+ (version "0.1.1")
  (created 2023-07-12T15:27:04Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Tag_Connect.lplib")
