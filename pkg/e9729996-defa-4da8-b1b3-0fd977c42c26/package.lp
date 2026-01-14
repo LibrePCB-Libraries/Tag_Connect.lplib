@@ -274,4 +274,5 @@
    (vertex (position 0.0 2.54) (angle 0.0))
   )
  )
+ (approved ambiguous_footprint_tags)
 )
